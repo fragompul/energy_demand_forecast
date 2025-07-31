@@ -99,7 +99,7 @@ streamlit run app.py
 ---
 
 ## 📌 Autor
-Francisco Javier Gómez Pulido
-Correo electrónico: frangomezpulido2002@gmail.com
-Linkedin: www.linkedin.com/in/frangomezpulido
-GitHub: fragompul
+- Francisco Javier Gómez Pulido
+- Correo electrónico: frangomezpulido2002@gmail.com
+- Linkedin: www.linkedin.com/in/frangomezpulido
+- GitHub: fragompul
