@@ -24,17 +24,22 @@ energy_demand_forecast/
 │       └── energy_spain_clean.csv
 │   └── raw/
 │       └── energy_spain_raw.csv
+|
 ├── notebooks/
 │   ├── 01_data_download.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_exploratory_analysis.ipynb
 │   ├── 04_model_training
-├── src/
+|
+├── dashboard/
 │   └── app.py
+|
 ├── models/
 │   ├── prophet_energy_model.joblib
 │   ├── rf_energy_model.joblib
+|
 ├── requirements.txt
+|
 └── README.md
 ```
 
