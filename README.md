@@ -40,6 +40,8 @@ energy_demand_forecast/
 |
 ├── requirements.txt
 |
+├── Memoria.pdf
+|
 └── README.md
 ```
 
