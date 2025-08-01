@@ -34,7 +34,7 @@ energy_demand_forecast/
 ├── dashboard/
 │   └── app.py
 |
-├── models/
+├── src/
 │   ├── prophet_energy_model.joblib
 │   ├── rf_energy_model.joblib
 |
